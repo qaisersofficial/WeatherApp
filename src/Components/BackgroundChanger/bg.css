@@ -1,0 +1,25 @@
+body {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.rainy {
+  background-image: url("RAIN.jpg");
+  color: #00fff2;
+}
+.cloudy {
+  background-image: url("CLOUDS.jpg");
+  color: #1e3a8a;
+}
+.sunny {
+  background-image: url("SUNNY.jpg");
+  color: #1e293b;
+}
+.night {
+  background-image: url("NIGHT.jpg");
+  color: #e8f1f1;
+}
+.default {
+  background-image: url("city.jpg");
+}
