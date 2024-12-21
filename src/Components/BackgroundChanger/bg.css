@@ -5,21 +5,21 @@ body {
   background-attachment: fixed;
 }
 .rainy {
-  background-image: url("RAIN.jpg");
+  background-image: url('/assets/RAIN.jpg');
   color: #00fff2;
 }
 .cloudy {
-  background-image: url("CLOUDS.jpg");
+  background-image: url('/assets/CLOUDS.jpg');
   color: #1e3a8a;
 }
 .sunny {
-  background-image: url("SUNNY.jpg");
+  background-image: url("/assets/SUNNY.jpg");
   color: #1e293b;
 }
 .night {
-  background-image: url("NIGHT.jpg");
+  background-image: url("/assets/NIGHT.jpg");
   color: #e8f1f1;
 }
 .default {
-  background-image: url("city.jpg");
+  background-image: url("/assets/city.jpg");
 }
